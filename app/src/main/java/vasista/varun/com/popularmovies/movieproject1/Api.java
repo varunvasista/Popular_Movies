@@ -3,6 +3,9 @@ import android.net.Uri;
 /**
  * Created by varunvasistakusuma on 03/03/16.
  */
+
+
+// API
 public class Api {
 
     public static final String API_KEY = "YOUR_API_KEY";
